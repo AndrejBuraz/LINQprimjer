@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\bin\Debug\LINQprimjer.exe.config
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\bin\Debug\LINQprimjer.exe
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\bin\Debug\LINQprimjer.pdb
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\obj\Debug\LINQprimjer.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\obj\Debug\LINQprimjer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\obj\Debug\LINQprimjer.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\obj\Debug\LINQprimjer.exe
+C:\Users\ucenik\source\repos\LINQprimjer\LINQprimjer\obj\Debug\LINQprimjer.pdb
